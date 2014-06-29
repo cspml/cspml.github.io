@@ -102,22 +102,22 @@ a:visited { color: #a0a; }
   overflow: hidden;
 }
 
-.footer .contact {
+.footer .left {
   float: left;
   margin-right: 3em;
 }
 
-.footer .contact a {
+.footer .left a {
   color: #8085C1;
 }
 
-.footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
+.footer .right {
+  /*margin-top: 1.1em;
+  margin-right: -.2em;*/
   float: right;
 }
 
-.footer .rss img {
+.footer .right img {
   border: 0;
 }
 
