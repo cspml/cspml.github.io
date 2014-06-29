@@ -1,0 +1,4 @@
+name: CSharp,Php,Markdown,Linux...
+markdown: redcarpet
+pygments: true
+permalink: /:categories/:title
